@@ -1,0 +1,3 @@
+\du - list db users
+
+postgres=> GRANT ALL PRIVILEGES ON DATABASE postgres TO <user_name>
